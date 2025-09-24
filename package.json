@@ -1,0 +1,19 @@
+{
+  "name": "composio-vue-nuxt-example",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@types/node": "^18",
+    "nuxt": "^3.8.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@composio/composio-js": "^0.1.0" 
+  }
+}
