@@ -1,0 +1,11 @@
+/* Global styles can be added here */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f4f7f6;
+  color: #333;
+}
+
+h1 {
+  color: #2c3e50;
+}
